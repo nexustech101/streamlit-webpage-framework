@@ -37,7 +37,8 @@ dist-ssr
 
 # testing
 /coverage
-/test
+algos.py
+# /test
 
 # Virtual Environment
 venv/
