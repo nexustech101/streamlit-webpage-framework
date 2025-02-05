@@ -239,10 +239,6 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-[Your License Here]
-
 ## Author
 
 Charles L. Defreese III
