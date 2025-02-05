@@ -15,7 +15,6 @@ A modular and extensible framework for building structured Streamlit application
 
 ```bash
 pip install streamlit
-# Additional installation steps for your package
 ```
 
 ## Project Structure
